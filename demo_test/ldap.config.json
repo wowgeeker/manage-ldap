@@ -1,0 +1,6 @@
+{
+  "server":"ldap://myorga.com:389",
+  "user":"cn=admin,dc=myorga",
+  "passwd":"mypassword",
+  "basedn":"ou=users,dc=myorga"
+}
